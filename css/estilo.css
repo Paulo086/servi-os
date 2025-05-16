@@ -1,0 +1,36 @@
+.retangulo-superior {
+  position: absolute;
+  width: 1980px;
+  height: 182px;
+  left: 1px;
+  top: 0px;
+  background-color: #D9D9D9;
+}
+
+.retangulo-verde {
+  position: absolute;
+  width: 1980px;
+  height: 773px;
+  left: 1px;
+  top: 182px; 
+  background-color: #ACF2AD;
+}
+
+.material-icons {
+  font-size: 75px;
+  color: #000;
+  margin: 70px;
+}
+
+.material-icons.destaque {
+  background-color: #2b3e32;
+  border-radius: 50%;
+  padding: 10px;
+  color: #fff;
+}
+
+.container {
+  padding-bottom: 50px;
+  margin-top: 4%;
+
+}
